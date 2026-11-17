@@ -1,0 +1,22 @@
+{
+  "id": "./",
+  "name": "AL-TAJ Exam Studio",
+  "short_name": "AL-TAJ",
+  "description": "Offline radiology FRCR reading and exam practice",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#071625",
+  "theme_color": "#071625",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
